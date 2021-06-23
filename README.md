@@ -1,4 +1,4 @@
-# shape
+# shapeyou
 
 `it is design for health programm like weight loss or weight gain and other prupose`
 
